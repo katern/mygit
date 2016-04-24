@@ -1,2 +1,1 @@
-I am learning github.
-Git is free for developer.
+I have a big problem in learning github.
